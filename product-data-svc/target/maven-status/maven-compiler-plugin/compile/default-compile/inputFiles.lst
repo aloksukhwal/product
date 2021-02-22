@@ -1,0 +1,8 @@
+/Users/asukhwa/Documents/product/product-data-svc/src/main/java/com/example/product/repository/MydomainRespository.java
+/Users/asukhwa/Documents/product/product-data-svc/src/main/java/com/example/product/exception/ProductException.java
+/Users/asukhwa/Documents/product/product-data-svc/src/main/java/com/example/product/exception/ProductExceptionController.java
+/Users/asukhwa/Documents/product/product-data-svc/src/main/java/com/example/product/config/CouchbaseConfig.java
+/Users/asukhwa/Documents/product/product-data-svc/src/main/java/com/example/product/controller/ProductController.java
+/Users/asukhwa/Documents/product/product-data-svc/src/main/java/com/example/product/Application.java
+/Users/asukhwa/Documents/product/product-data-svc/src/main/java/com/example/product/models/Product.java
+/Users/asukhwa/Documents/product/product-data-svc/src/main/java/com/example/product/exception/ProductNotFoundException.java
