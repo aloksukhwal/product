@@ -16,7 +16,7 @@ Steps to run:
 ./mvnw clean install
 ./mvnw spring-boot:run
 
-API calls:
+API calls:.md
 POST http://localhost:8080/product/1212331
 RequestBody:
 {
