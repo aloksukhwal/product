@@ -66,6 +66,8 @@ public class Product {
 	@Field
 	String isVisible;
 
+	private Price price;
+
 	/*
 	@NonNull
 	@Field
